@@ -1,0 +1,22 @@
+{
+  "name": "js-tdd-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "capitalizeFirstLetters.js",
+  "scripts": {
+    "test": "node capitalizeFirstLetters.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabriellji/js-tdd-intro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gabriellji/js-tdd-intro/issues"
+  },
+  "homepage": "https://github.com/Gabriellji/js-tdd-intro#readme",
+  "dependencies": {
+    "assert": "^2.0.0"
+  }
+}
